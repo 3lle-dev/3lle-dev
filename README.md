@@ -42,10 +42,3 @@
     <li>💻 Penetration Testing & Red Teaming</li>
     <li>⚙️ Developer</li>
 </ul>
-
-<hr>
-
-<h2> 📅 Upcoming Projects </h2>
-<ul>
-    <li>🚀 BadFriend - The Powershell LaZagne</li>
-</ul>
