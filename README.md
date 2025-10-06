@@ -1,7 +1,7 @@
 <br>
 
 <pre>
-    🛡️ SOC Analyst
+    🛡️ OT Security
     🎯 Offensive Security
     🚀 Founder of the 0xH3xSec Community
 </pre>
